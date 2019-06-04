@@ -1,0 +1,51 @@
+D:\Mega Sync\Car project\C#\CarManagement\CarManagement\bin\Debug\CarManagement.exe.config
+D:\Mega Sync\Car project\C#\CarManagement\CarManagement\bin\Debug\CarManagement.exe
+D:\Mega Sync\Car project\C#\CarManagement\CarManagement\bin\Debug\CarManagement.pdb
+D:\Mega Sync\Car project\C#\CarManagement\CarManagement\obj\Debug\CarManagement.csprojAssemblyReference.cache
+D:\Mega Sync\Car project\C#\CarManagement\CarManagement\obj\Debug\MainWindow.g.cs
+D:\Mega Sync\Car project\C#\CarManagement\CarManagement\obj\Debug\App.g.cs
+D:\Mega Sync\Car project\C#\CarManagement\CarManagement\obj\Debug\CarManagement_MarkupCompile.cache
+D:\Mega Sync\Car project\C#\CarManagement\CarManagement\obj\Debug\CarManagement_MarkupCompile.lref
+D:\Mega Sync\Car project\C#\CarManagement\CarManagement\obj\Debug\MainWindow.baml
+D:\Mega Sync\Car project\C#\CarManagement\CarManagement\obj\Debug\CarManagement.g.resources
+D:\Mega Sync\Car project\C#\CarManagement\CarManagement\obj\Debug\CarManagement.Properties.Resources.resources
+D:\Mega Sync\Car project\C#\CarManagement\CarManagement\obj\Debug\CarManagement.csproj.GenerateResource.cache
+D:\Mega Sync\Car project\C#\CarManagement\CarManagement\obj\Debug\CarManagement.csproj.CoreCompileInputs.cache
+D:\Mega Sync\Car project\C#\CarManagement\CarManagement\obj\Debug\CarManagement.exe
+D:\Mega Sync\Car project\C#\CarManagement\CarManagement\obj\Debug\CarManagement.pdb
+D:\Mega Sync\Car project\C#\CarManagement\CarManagement\obj\Debug\Window1.g.cs
+D:\Mega Sync\Car project\C#\CarManagement\CarManagement\obj\Debug\Window1.baml
+C:\Users\savca\source\repos\CarManagement\CarManagement\bin\Debug\CarManagement.exe.config
+C:\Users\savca\source\repos\CarManagement\CarManagement\bin\Debug\CarManagement.exe
+C:\Users\savca\source\repos\CarManagement\CarManagement\bin\Debug\CarManagement.pdb
+C:\Users\savca\source\repos\CarManagement\CarManagement\obj\Debug\CarManagement.csprojAssemblyReference.cache
+C:\Users\savca\source\repos\CarManagement\CarManagement\obj\Debug\MainWindow.g.cs
+C:\Users\savca\source\repos\CarManagement\CarManagement\obj\Debug\Window1.g.cs
+C:\Users\savca\source\repos\CarManagement\CarManagement\obj\Debug\App.g.cs
+C:\Users\savca\source\repos\CarManagement\CarManagement\obj\Debug\CarManagement_MarkupCompile.cache
+C:\Users\savca\source\repos\CarManagement\CarManagement\obj\Debug\CarManagement_MarkupCompile.lref
+C:\Users\savca\source\repos\CarManagement\CarManagement\obj\Debug\MainWindow.baml
+C:\Users\savca\source\repos\CarManagement\CarManagement\obj\Debug\Window1.baml
+C:\Users\savca\source\repos\CarManagement\CarManagement\obj\Debug\CarManagement.g.resources
+C:\Users\savca\source\repos\CarManagement\CarManagement\obj\Debug\CarManagement.Properties.Resources.resources
+C:\Users\savca\source\repos\CarManagement\CarManagement\obj\Debug\CarManagement.csproj.GenerateResource.cache
+C:\Users\savca\source\repos\CarManagement\CarManagement\obj\Debug\CarManagement.csproj.CoreCompileInputs.cache
+C:\Users\savca\source\repos\CarManagement\CarManagement\obj\Debug\CarManagement.exe
+C:\Users\savca\source\repos\CarManagement\CarManagement\obj\Debug\CarManagement.pdb
+D:\Repos Visual\CarManagement\CarManagement\obj\Debug\CarManagement.exe
+D:\Repos Visual\CarManagement\CarManagement\obj\Debug\CarManagement.pdb
+D:\Repos Visual\CarManagement\CarManagement\bin\Debug\CarManagement.exe.config
+D:\Repos Visual\CarManagement\CarManagement\bin\Debug\CarManagement.exe
+D:\Repos Visual\CarManagement\CarManagement\bin\Debug\CarManagement.pdb
+D:\Repos Visual\CarManagement\CarManagement\obj\Debug\CarManagement.csprojAssemblyReference.cache
+D:\Repos Visual\CarManagement\CarManagement\obj\Debug\MainWindow.g.cs
+D:\Repos Visual\CarManagement\CarManagement\obj\Debug\Window1.g.cs
+D:\Repos Visual\CarManagement\CarManagement\obj\Debug\App.g.cs
+D:\Repos Visual\CarManagement\CarManagement\obj\Debug\CarManagement_MarkupCompile.cache
+D:\Repos Visual\CarManagement\CarManagement\obj\Debug\CarManagement_MarkupCompile.lref
+D:\Repos Visual\CarManagement\CarManagement\obj\Debug\MainWindow.baml
+D:\Repos Visual\CarManagement\CarManagement\obj\Debug\Window1.baml
+D:\Repos Visual\CarManagement\CarManagement\obj\Debug\CarManagement.g.resources
+D:\Repos Visual\CarManagement\CarManagement\obj\Debug\CarManagement.Properties.Resources.resources
+D:\Repos Visual\CarManagement\CarManagement\obj\Debug\CarManagement.csproj.GenerateResource.cache
+D:\Repos Visual\CarManagement\CarManagement\obj\Debug\CarManagement.csproj.CoreCompileInputs.cache
